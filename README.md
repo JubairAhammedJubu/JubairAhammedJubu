@@ -7,7 +7,7 @@
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm 
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=120&section=header&text=Jubair%20Ahammed&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00F7FF&height=120&section=header&text=Jubair%20Ahammed&fontSize=40&fontColor=ffffff" />
 
 ### 🚀 Frontend Developer | Aspiring MERN Stack Developer  
 ### 🌱 React & Node.js Explorer | TypeScript Learner | Networking Enthusiast
