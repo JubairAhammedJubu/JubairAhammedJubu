@@ -18,7 +18,7 @@
 
 ---
 
-# 🙋 About Me
+# 🧑‍💻 About Me
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
