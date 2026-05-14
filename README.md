@@ -13,7 +13,7 @@
 ### 🚀 Frontend Developer | Aspiring MERN Stack Developer  
 ### 🌱 React & Node.js Explorer | Expess & TypeScript Learner | Networking Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello+there+!;Nice+to+meet+you.;Always+Learning+New+Things;Hope+you+enjoy+my+profile." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello+there+!;Nice+to+meet+you.;Hope+you+enjoy+my+profile." />
 
 </div>
 
