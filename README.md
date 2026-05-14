@@ -10,7 +10,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00F7FF&height=180&section=header&text=Jubair%20Ahammed&fontSize=35&fontColor=ffffff" />
 
 ### 🚀 Frontend Developer | Aspiring MERN Stack Developer  
-### 🌱 React & Node.js Explorer | TypeScript Learner | Networking Enthusiast
+### 🌱 React & Node.js Explorer | Expess & TypeScript Learner | Networking Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Developer;React+%26+Node.js+Explorer;Learning+TypeScript+%26+Express.js;Always+Learning+New+Things" alt="Typing SVG" />
 
@@ -36,7 +36,7 @@
 
 ---
 
-# 💻 Languages and Tools
+# ⚙️ Languages and Tools
 
 <div align="center">
 
@@ -105,22 +105,6 @@
 <div align="center">
 
 [![Jubair's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JubairAhammedJubu&theme=tokyo-night)](https://github.com/JubairAhammedJubu)
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://breakers-payoo.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JubairAhammedJubu&repo=Breakers-Payoo&theme=tokyonight" />
-</a>
-
-<a href="https://group-07.infinityfreeapp.com">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JubairAhammedJubu&repo=Support-Hero&theme=tokyonight" />
-</a>
 
 </div>
 
