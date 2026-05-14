@@ -41,7 +41,7 @@
 <div align="center">
 
 <a href="https://github.com/JubairAhammedJubu" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
+  <img src="https://cdn.simpleicons.org/github" height="50" />
 </a>
 
 <a href="https://www.linkedin.com/in/jubairahammed" target="_blank">
