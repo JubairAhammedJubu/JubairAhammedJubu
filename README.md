@@ -30,22 +30,6 @@
 - 📫 Reach me at  
   ✉️ **0432410005101112@uits.edu.bd**
 - ⚡ Fun Fact:  
-  **I love learning new technologies and solving problems**
-
----
-
-# 🙋 About Me
-
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🔭 I’m currently working on **Breakers Payoo**
-- 🌱 I’m currently learning **Node.js, Express.js & TypeScript**
-- 👯 I’m looking to collaborate on **Support Hero**
-- 👨‍💻 All of my projects are available at  
-  🌐 **https://jubairprotfolio.netlify.app**
-- 📫 Reach me at  
-  ✉️ **0432410005101112@uits.edu.bd**
-- ⚡ Fun Fact:  
   **I love learning new technologies and solving real-world problems**
 
 <br>
