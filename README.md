@@ -44,10 +44,6 @@
 
 </div>
 
----
-
-# 🚀 Current Focus
-
 ```javascript
 const jubair = {
   pronouns: "he/him",
@@ -66,28 +62,28 @@ const jubair = {
 
 <div align="center">
 
-<a href="https://github.com/JubairAhammedJubu" target="_blank">
+<a href="https://github.com/JubairAhammedJubu" target="_blank" style="margin: 0 12px;">
   <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
-<a href="https://www.linkedin.com/in/jubairahammed" target="_blank">
+<a href="https://www.linkedin.com/in/jubairahammed" target="_blank" style="margin: 0 12px;">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
-<a href="https://www.facebook.com/jubairahammedjubu1112" target="_blank">
+<a href="https://www.facebook.com/jubairahammedjubu1112" target="_blank" style="margin: 0 12px;">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" height="50" />
 </a>
 
-<a href="https://www.instagram.com/jubair____jubu" target="_blank">
+<a href="https://www.instagram.com/jubair____jubu" target="_blank" style="margin: 0 12px;">
   <img src="https://skillicons.dev/icons?i=instagram" height="50" />
 </a>
 
-<a href="http://www.youtube.com/@smjubairahammed3004" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="50" />
+<a href="https://discord.gg/DnWpqc5FM7" target="_blank" style="margin: 0 12px;">
+  <img src="https://skillicons.dev/icons?i=discord" height="50" />
 </a>
 
-<a href="https://discord.gg/DnWpqc5FM7" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" height="50" />
+<a href="http://www.youtube.com/@smjubairahammed3004" target="_blank" style="margin: 0 12px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="50" />
 </a>
 
 </div>
