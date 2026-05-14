@@ -84,7 +84,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JubairAhammedJubu&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JubairAhammedJubu&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JubairAhammedJubu&theme=tokyonight" />
 
 </div>
 
