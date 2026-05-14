@@ -135,16 +135,3 @@ const jubair = {
 </div>
 
 ---
-
-# 🚀 Current Focus
-
-```javascript
-const jubair = {
-  pronouns: "he/him"
-  code: ["JavaScript", "TypeScript", "C++", "Python"],
-  frontend: ["React", "Next.js", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js"],
-  database: ["MongoDB", "MySQL"],
-  tools: ["Git", "GitHub", "Firebase", "Figma"],
-  currentFocus: "Becoming a Full Stack MERN Developer",
-};
