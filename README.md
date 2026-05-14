@@ -16,6 +16,20 @@
 
 </div>
 
+<div align="center">
+
+<img src="YOUR_BANNER_LINK" width="100%" />
+
+# Hi 👋, I'm JuBaiR AhammEd
+
+### 🚀 Frontend Developer | Aspiring MERN Stack Developer  
+### 🌱 React & Node.js Explorer | TypeScript Learner | Networking Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Developer;React+%26+Node.js+Explorer;Learning+TypeScript+%26+Express.js;Always+Learning+New+Things" alt="Typing SVG" />
+
+</div>
+
+
 ---
 
 # 🏆 GitHub Trophies
