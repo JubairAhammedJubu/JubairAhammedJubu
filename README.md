@@ -1,21 +1,18 @@
+<!-- Profile Views (Top Left) -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jubairahammedjubu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
+
 <div align="center">
 
 <img src="YOUR_BANNER_LINK" width="100%" />
 
-# Hi 👋, I'm JuBaiR AhammEd
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm JuBaiR AhammEd
 
 ### 🚀 Frontend Developer | Aspiring MERN Stack Developer  
 ### 🌱 React & Node.js Explorer | TypeScript Learner | Networking Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Developer;React+%26+Node.js+Explorer;Learning+TypeScript+%26+Express.js;Always+Learning+New+Things" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=jubairahammedjubu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
 </div>
 
@@ -50,6 +47,10 @@
 # 🌐 Connect With Me
 
 <div align="center">
+
+<a href="https://github.com/jubairahammedjubu" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
 
 <a href="https://www.linkedin.com/in/jubairahammed" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
@@ -89,7 +90,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jubairahammedjubu&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jubairahammedjubu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubairahammedjubu&layout=compact&theme=tokyonight&hide_border=true" />
 
