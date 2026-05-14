@@ -1,6 +1,6 @@
-<!-- Profile Views (Top Left) -->
+<!-- Profile Views -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jubairahammedjubu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JubairAhammedJubu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 <div align="center">
@@ -12,7 +12,7 @@
 ### 🚀 Frontend Developer | Aspiring MERN Stack Developer  
 ### 🌱 React & Node.js Explorer | TypeScript Learner | Networking Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Developer;React+%26+Node.js+Explorer;Learning+TypeScript+%26+Express.js;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;MERN+Stack+Developer;React+%26+Node.js+Explorer;Learning+TypeScript+%26+Express.js;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jubairahammedjubu&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JubairAhammedJubu&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -40,7 +40,9 @@
 - 📫 Reach me at  
   ✉️ **0432410005101112@uits.edu.bd**
 - ⚡ Fun Fact:  
-  **I love learning new technologies and solving problems**
+  **I love learning new technologies and solving real-world problems**
+
+<br>
 
 ---
 
@@ -48,28 +50,28 @@
 
 <div align="center">
 
-<a href="https://github.com/jubairahammedjubu" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="50" />
+<a href="https://github.com/JubairAhammedJubu" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
 <a href="https://www.linkedin.com/in/jubairahammed" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
 <a href="https://www.facebook.com/jubairahammedjubu1112" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="50" />
+  <img src="https://skillicons.dev/icons?i=facebook" height="50" />
 </a>
 
 <a href="https://www.instagram.com/jubair____jubu" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="50" />
+  <img src="https://skillicons.dev/icons?i=instagram" height="50" />
 </a>
 
 <a href="http://www.youtube.com/@smjubairahammed3004" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="50" />
 </a>
 
 <a href="https://discord.gg/DnWpqc5FM7" target="_blank">
-<img src="https://skillicons.dev/icons?i=discord" height="50" />
+  <img src="https://skillicons.dev/icons?i=discord" height="50" />
 </a>
 
 </div>
@@ -90,9 +92,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jubairahammedjubu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JubairAhammedJubu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubairahammedjubu&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JubairAhammedJubu&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -102,7 +104,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jubairahammedjubu&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=JubairAhammedJubu&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -112,7 +114,7 @@
 
 <div align="center">
 
-[![Jubair's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jubairahammedjubu&theme=tokyo-night)](https://github.com/jubairahammedjubu)
+[![Jubair's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JubairAhammedJubu&theme=tokyo-night)](https://github.com/JubairAhammedJubu)
 
 </div>
 
@@ -123,11 +125,11 @@
 <div align="center">
 
 <a href="https://breakers-payoo.vercel.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jubairahammedjubu&repo=YOUR_REPO_NAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JubairAhammedJubu&repo=Breakers-Payoo&theme=tokyonight" />
 </a>
 
 <a href="https://group-07.infinityfreeapp.com">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jubairahammedjubu&repo=YOUR_REPO_NAME_2&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JubairAhammedJubu&repo=Support-Hero&theme=tokyonight" />
 </a>
 
 </div>
@@ -144,10 +146,14 @@
 
 ---
 
-# 💡 Quote of the Day
+# ☕ Current Focus
 
-<div align="center">
-
-### ✨ "Code. Learn. Build. Repeat."
-
-</div>
+```javascript
+const jubair = {
+  code: ["JavaScript", "TypeScript", "C++", "Python"],
+  frontend: ["React", "Next.js", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js"],
+  database: ["MongoDB", "MySQL"],
+  tools: ["Git", "GitHub", "Firebase", "Figma"],
+  currentFocus: "Becoming a Full Stack MERN Developer",
+};
