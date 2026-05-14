@@ -49,7 +49,7 @@
 </a>
 
 <a href="https://www.facebook.com/jubairahammedjubu1112" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" height="50" />
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="50" />
 </a>
 
 <a href="https://www.instagram.com/jubair____jubu" target="_blank">
