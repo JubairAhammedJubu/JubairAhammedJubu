@@ -36,12 +36,21 @@
 
 ---
 
+# 💻 Languages and Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,figma,linux,java,python,c,cpp,php,vscode&perline=7" />
+
+</div>
+
+---
 # 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/JubairAhammedJubu" target="_blank">
-  <img src="https://cdn.simpleicons.org/github" height="50" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
 <a href="https://www.linkedin.com/in/jubairahammed" target="_blank">
@@ -63,16 +72,6 @@
 <a href="https://discord.gg/DnWpqc5FM7" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" height="50" />
 </a>
-
-</div>
-
----
-
-# 💻 Languages and Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,firebase,git,github,figma,linux,java,python,c,cpp,php,vscode&perline=7" />
 
 </div>
 
