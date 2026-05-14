@@ -10,10 +10,12 @@
 </h1>
 
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=200&section=header&text=Jubair%20Ahammed&fontSize=40&fontColor=ffffff"
-    style="border-radius: 20px;"
-  />
+  <div style="border-radius:20px; overflow:hidden; display:inline-block;">
+    <img 
+      src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=200&section=header&text=Jubair%20Ahammed&fontSize=40&fontColor=ffffff"
+    />
+  </div>
+</p>
 </p>
 
 ### 🚀 Frontend Developer | Aspiring MERN Stack Developer  
