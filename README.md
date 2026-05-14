@@ -7,11 +7,7 @@
 <h1>
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, My Guest I'm 
 </h1>
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Jubair+Ahammed;Frontend+Developer;MERN+Stack+Learner;Always+Learning+New+Tech" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00F7FF&height=200&section=header&text=Jubair%20Ahammed&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
 ### 🚀 Frontend Developer | Aspiring MERN Stack Developer  
 ### 🌱 React & Node.js Explorer | Expess & TypeScript Learner | Networking Enthusiast
