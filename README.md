@@ -5,7 +5,9 @@
 
 <div align="center">
 
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm 
+</h1>
 
 <img style="border-radius:20px;" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=200&section=header&text=Jubair%20Ahammed&fontSize=40&fontColor=ffffff" />
 
