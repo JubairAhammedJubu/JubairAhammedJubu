@@ -12,7 +12,7 @@
 ### 🚀 Frontend Developer | Aspiring MERN Stack Developer  
 ### 🌱 React & Node.js Explorer | Expess & TypeScript Learner | Networking Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Developer;React+%26+Node.js+Explorer;Learning+TypeScript+%26+Express.js;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello+there+!+Nice+to+meet+you.+Hope+you+enjoy+exploring+my+profile.;Frontend+Developer;MERN+Stack+Developer;React+%26+Node.js+Explorer;Learning+TypeScript+%26+Express.js;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
