@@ -20,7 +20,7 @@
 
 <img src="YOUR_BANNER_LINK" width="100%" />
 
-# Hi 👋, I'm JuBaiR AhammEd
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Jubair Ahammed
 
 ### 🚀 Frontend Developer | Aspiring MERN Stack Developer  
 ### 🌱 React & Node.js Explorer | TypeScript Learner | Networking Enthusiast
