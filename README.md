@@ -5,9 +5,9 @@
 
 <div align="center">
 <h1>
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm 
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, My Guest I'm 
 </h1>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00F7FF&height=180&section=header&text=Jubair%20Ahammed&fontSize=35&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00F7FF&height=180&section=header&text=Jubair%20Ahammed&fontSize=35&fontColor=ffffff&cacheSeconds=86400" />
 
 ### 🚀 Frontend Developer | Aspiring MERN Stack Developer  
 ### 🌱 React & Node.js Explorer | Expess & TypeScript Learner | Networking Enthusiast
@@ -66,19 +66,19 @@ const jubair = {
 
 <a href="https://github.com/JubairAhammedJubu" target="_blank" style="margin: 0 12px;">
   <img src="https://skillicons.dev/icons?i=github" height="50" style="margin: 0 12px;" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/jubairahammed" target="_blank" style="margin: 0 12px;">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" style="margin: 0 12px;" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.facebook.com/jubairahammedjubu1112" target="_blank" style="margin: 0 12px;">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" height="50" style="margin: 0 12px;" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/jubair____jubu" target="_blank" style="margin: 0 12px;">
   <img src="https://skillicons.dev/icons?i=instagram" height="50" style="margin: 0 12px;" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://discord.gg/DnWpqc5FM7" target="_blank" style="margin: 0 12px;">
   <img src="https://skillicons.dev/icons?i=discord" height="50" style="margin: 0 12px;" />
@@ -86,7 +86,7 @@ const jubair = {
 
 <a href="http://www.youtube.com/@smjubairahammed3004" target="_blank" style="margin: 0 12px;">
   <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="50" style="margin: 0 12px;" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;
 
 </div>
 
