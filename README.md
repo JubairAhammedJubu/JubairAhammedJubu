@@ -86,8 +86,6 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JubairAhammedJubu&theme=tokyonight" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-activity?username=JubairAhammedJubu&theme=tokyonight" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JubairAhammedJubu&theme=tokyonight" />
 
 </div>
