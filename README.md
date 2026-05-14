@@ -44,8 +44,6 @@
 
 </div>
 
-<div align="center">
-
 ---
 
 # 🌐 Connect With Me
