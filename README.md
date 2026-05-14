@@ -120,10 +120,11 @@
 
 ---
 
-# ☕ Current Focus
+# 🚀 Current Focus
 
 ```javascript
 const jubair = {
+  pronouns: "he/him"
   code: ["JavaScript", "TypeScript", "C++", "Python"],
   frontend: ["React", "Next.js", "Tailwind CSS"],
   backend: ["Node.js", "Express.js"],
