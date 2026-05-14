@@ -5,9 +5,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=200&section=header&text=Jubair%20Ahammed&fontSize=40&fontColor=ffffff" />
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm JuBaiR AhammEd
+</h1>
 
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm JuBaiR AhammEd
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=200&section=header&text=Jubair%20Ahammed&fontSize=40&fontColor=ffffff"
+    style="border-radius: 20px;"
+  />
+</p>
 
 ### 🚀 Frontend Developer | Aspiring MERN Stack Developer  
 ### 🌱 React & Node.js Explorer | TypeScript Learner | Networking Enthusiast
