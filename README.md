@@ -100,12 +100,7 @@ const jubair = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JubairAhammedJubu&theme=tokyonight" />
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=JubairAhammedJubu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile"
-  height="200"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JubairAhammedJubu&theme=tokyonight&rank_icon=percentile" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JubairAhammedJubu&theme=tokyonight" />
 
