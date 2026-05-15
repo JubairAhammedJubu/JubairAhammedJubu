@@ -99,6 +99,9 @@ const jubair = {
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JubairAhammedJubu&theme=tokyonight" />
 
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JubairAhammedJubu&layout=compact&theme=tokyonight&hide=php&langs_count=8" />
+</p>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JubairAhammedJubu&theme=tokyonight" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JubairAhammedJubu&theme=tokyonight" />
