@@ -106,10 +106,12 @@ const jubair = {
   src="https://github-readme-stats-eight-theta.vercel.app/api?username=JubairAhammedJubu&show_icons=true&theme=tokyonight&hide_border=true"
   height="200"
 />
+
 <img 
   src="https://github-readme-stats.vercel.app/api?username=JubairAhammedJubu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile"
   height="200"
 />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JubairAhammedJubu&theme=tokyonight" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JubairAhammedJubu&theme=tokyonight" />
