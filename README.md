@@ -47,9 +47,9 @@
 
 <br>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JubairAhammedJubu&layout=compact&theme=tokyonight&hide=php&langs_count=8&hide_border=true" />
-
-<br>
+<div align="center">
+  
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JubairAhammedJubu&layout=compact&theme=tokyonight&hide=php&langs_count=8&hide_border=true" />&nbsp;&nbsp;&nbsp;&nbsp;
 
 ```javascript
 const jubair = {
@@ -62,6 +62,8 @@ const jubair = {
   currentFocus: "Becoming a Full Stack MERN Developer",
 };
 ```
+
+</div>
 
 ---
 
