@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,figma,linux,java,python,c,cpp,cpp,php,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,figma,linux,java,python,c,cpp,php,vscode&perline=7" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JubairAhammedJubu&layout=compact&theme=tokyonight&hide=php&langs_count=8&hide_border=true" />
@@ -102,6 +102,10 @@ const jubair = {
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JubairAhammedJubu&theme=tokyonight" />
 
+<img 
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=JubairAhammedJubu&show_icons=true&theme=tokyonight&hide_border=true"
+  height="200"
+/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JubairAhammedJubu&theme=tokyonight" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JubairAhammedJubu&theme=tokyonight" />
