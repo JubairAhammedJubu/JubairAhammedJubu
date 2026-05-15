@@ -46,8 +46,6 @@
 </div>
 
 <br>
-
-<div align="center">
   
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JubairAhammedJubu&layout=compact&theme=tokyonight&hide=php&langs_count=8&hide_border=true" />&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -62,8 +60,6 @@ const jubair = {
   currentFocus: "Becoming a Full Stack MERN Developer",
 };
 ```
-
-</div>
 
 ---
 
