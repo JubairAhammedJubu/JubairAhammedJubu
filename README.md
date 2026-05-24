@@ -1,7 +1,9 @@
 <!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JubairAhammedJubu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<p>
+  <img  align="left" src="https://komarev.com/ghpvc/?username=JubairAhammedJubu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img  align="right" src="https://img.shields.io/badge/Open%20to-Opportunities-fcb045?style=for-the-badge&labelColor=1a1a2e" />
 </p>
+<br>
 
 <div align="center">
 <h1>
@@ -9,6 +11,7 @@
 </h1>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00F7FF&height=200&section=header&text=Jubair%20Ahammed&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="15%" />
 
 ### 🚀 CSE Student | Frontend Developer | Aspiring MERN Stack Developer  
 ### 🌱 React & Node.js Explorer | Expess & TypeScript Learner | Networking Enthusiast
@@ -23,14 +26,14 @@
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Breakers Payoo**
-- 🌱 I’m currently learning **Node.js, Express.js & TypeScript**
-- 👯 I’m looking to collaborate on **Support Hero**
+- 🔭 I’m currently working on **Breakers Payoo** & Designing clean and user-friendly UIs
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="16" />&nbsp;  I’m currently learning **Node.js, Express.js & TypeScript, AI/ML integrations**
+- 👯 I’m focused on **Building fast & intuitive AI-powered products**
 - 👨‍💻 All of my projects are available at  
   🌐 **https://jubairprotfolio.netlify.app**
 - 📫 Reach me at  
   ✉️ **0432410005101112@uits.edu.bd**
-- ⚡ Fun Fact:  
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp; Fun Fact:  
   **I love learning new technologies and solving real-world problems**
 
 <br>
