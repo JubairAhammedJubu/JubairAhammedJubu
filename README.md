@@ -10,7 +10,7 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, My Guest... I'm 
 </h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00F7FF&height=200&section=header&text=Jubair%20Ahammed&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00F7FF&height=200&section=header&text=Jubair%20Ahammed&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=45" />
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="15%" />
 
 ### 🚀 CSE Student | Frontend Developer | Aspiring MERN Stack Developer  
