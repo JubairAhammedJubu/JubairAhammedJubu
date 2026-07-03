@@ -14,7 +14,7 @@
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="15%" />
 
 ### 🚀 CSE Student | Frontend Developer | Aspiring MERN Stack Developer  
-### 🌱 React & Node.js Explorer | Expess & TypeScript Learner | Networking Enthusiast
+### 🌱 React & Next.js Explorer | Expess & TypeScript Learner | Networking Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello+there+!;Nice+to+meet+you.;Hope+you+enjoy+my+profile..." />
 
