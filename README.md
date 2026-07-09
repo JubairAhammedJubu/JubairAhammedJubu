@@ -13,7 +13,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00F7FF&height=200&section=header&text=Jubair%20Ahammed&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=45" />
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="15%" />
 
-### 🚀 CSE Student | Frontend Developer | Aspiring MERN Stack Developer  
+### 🚀 CSE Student | MERN Stack Developer | Aspiring Full Stack Developer  
 ### 🌱 React & Next.js Explorer | Expess & TypeScript Learner | Networking Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello+there+!;Nice+to+meet+you.;Hope+you+enjoy+my+profile..." />
@@ -26,13 +26,13 @@
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Breakers Payoo** & Designing clean and user-friendly UIs
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="16" />&nbsp;  I’m currently learning **Node.js, Express.js & TypeScript, AI/ML integrations**
+- 🔭 I’m currently working on **React.js, Next.js, Express.js** for Designing clean and user-friendly UIs
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="16" />&nbsp;  I’m currently learning **TypeScript, AI integrations, DSA & Problem Solving**
 - 👯 I’m focused on **Building fast & intuitive AI-powered products**
 - 👨‍💻 All of my projects are available at  
   🌐 **https://jubairprotfolio.netlify.app**
 - 📫 Reach me at  
-  ✉️ **0432410005101112@uits.edu.bd**
+  ✉️ **[Email](jubairahammedjubu1112@gmail.com)** and **[LinkedIn](https://www.linkedin.com/in/jubairahammed)**
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp; Fun Fact:  
   **I love learning new technologies and solving real-world problems**
 
