@@ -5,7 +5,7 @@
 </p>
 <br>
 
-<img src="./banner/banner1.png" alt="Hello world">
+<!-- <img src="./banner/banner1.png" alt="Hello world"> -->
 
 <div align="center">
 <h1>
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,figma,linux,java,python,c,cpp,php,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=,css,js,ts,react,nextjs,nodejs,,,,express,mongodb,mysql,tailwind,git,github,figma,linux,java,python,c,cpp,,,,,,,php,vscode,html&perline=8" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JubairAhammedJubu&layout=compact&theme=tokyonight&hide=php&langs_count=8&hide_border=true" />
@@ -81,17 +81,25 @@ const jubair = {
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" style="margin: 0 12px;" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.facebook.com/jubairahammedjubu1112" target="_blank" style="margin: 0 12px;">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="50" style="margin: 0 12px;" />
+<a href="mailto:your.email@gmail.com" target="_blank" style="margin: 0 12px;">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" style="margin: 0 12px;" />
 </a>&nbsp;&nbsp;&nbsp;
-
-<!-- <a href="https://www.instagram.com/jubair____jubu" target="_blank" style="margin: 0 12px;">
-  <img src="https://skillicons.dev/icons?i=instagram" height="50" style="margin: 0 12px;" />
-</a>&nbsp;&nbsp;&nbsp; -->
 
 <a href="https://discord.gg/DnWpqc5FM7" target="_blank" style="margin: 0 12px;">
   <img src="https://skillicons.dev/icons?i=discord" height="50" style="margin: 0 12px;" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://t.me/your_username" target="_blank">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="50" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/jubairahammedjubu1112" target="_blank" style="margin: 0 12px;">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="50" style="margin: 0 12px;" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/jubair____jubu" target="_blank" style="margin: 0 12px;">
+  <img src="https://skillicons.dev/icons?i=instagram" height="50" style="margin: 0 12px;" />
+</a>&nbsp;&nbsp;&nbsp;
 
 <!-- <a href="http://www.youtube.com/@smjubairahammed3004" target="_blank" style="margin: 0 12px;">
   <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="50" style="margin: 0 12px;" />
