@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=,css,js,ts,react,nextjs,nodejs,,,,express,mongodb,mysql,tailwind,git,github,figma,linux,java,python,c,cpp,,,,,,,php,vscode,html&perline=8" />
+<img src="https://skillicons.dev/icons?i=,css,js,ts,react,nextjs,nodejs,,,,express,mongodb,mysql,tailwind,git,github,figma,linux,java,python,c,cpp,,,,,,,php,vscode,html&perline=9" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JubairAhammedJubu&layout=compact&theme=tokyonight&hide=php&langs_count=8&hide_border=true" />
