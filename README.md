@@ -113,15 +113,12 @@ const jubair = {
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JubairAhammedJubu&theme=tokyonight&rank_icon=percentile" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JubairAhammedJubu&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JubairAhammedJubu&theme=tokyonight" />
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JubairAhammedJubu&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true) [![](https://raw.githubusercontent.com/JubairAhammedJubu/profile-summary-cards/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/JubairAhammedJubu/profile-summary-cards/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
