@@ -128,7 +128,7 @@ const jubair = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=JubairAhammedJubu&theme=tokyonight&hide_border=true" />
+<img width="60%" src="https://streak-stats.demolab.com?user=JubairAhammedJubu&theme=tokyonight-duo&hide_border=true" />
 
 </div>
 
